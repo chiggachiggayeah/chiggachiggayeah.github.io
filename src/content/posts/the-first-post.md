@@ -1,6 +1,7 @@
 ---
-title: "The First Post!!!"
+title: The First Post!!!
 date: 2017-12-05T21:58:44-05:00
+draft: false
 ---
 
 ### I just wanna say...
